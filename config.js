@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94713106474', '𝘚𝘈𝘊𝘏𝘐𝘛𝘏', true],
-  ['94762537450', '𝘊𝘠𝘉𝘌𝘙-𝘗𝘈𝘕𝘋𝘈', true], 
+  ['94724752209', 'SASIYA', true],
+  ['94724752209', 'CYBER-SASIYA', true], 
   [''] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['+94704274987','+94704274987'] 
-global.prems = ['+94704274987', '+94704274987', '+94704274987']
-global.allowed = ['+94704274987', '+94704274987', '+94704274987']
+global.mods = ['+94724752209','+94724752209'] 
+global.prems = ['+94724752209', '+94724752209', '+94724752209']
+global.allowed = ['+94724752209', '+94724752209', '+94724752209']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -49,10 +49,10 @@ global.APIKeys = { // APIKey Here
   'https://api-fgmods.ddns.net': 'fg-dylux'
 }
 
-global.botname = '🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋'
+global.botname = '𝐂𝐘𝐁𝐄𝐑|𝐒𝐀𝐒𝐈𝐘𝐀|𝐌𝐃|'
 global.premium = 'true'
-global.packname = '🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋' 
-global.author = '@SACHITH' 
+global.packname = '𝐂𝐘𝐁𝐄𝐑|𝐒𝐀𝐒𝐈𝐘𝐀|𝐌𝐃' 
+global.author = '@Sasiya' 
 global.menuvid = 'https://telegra.ph/Hi-12-11-189'
 global.igfg = '\n\n' 
 global.dygp = ''
